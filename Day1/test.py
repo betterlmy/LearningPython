@@ -1,7 +1,6 @@
 # author:TYUT-Lmy
 # date:2021/12/9
 # description:
-a = 1
+a = int(input("这是啥？"))
 print(a)
-a+=3
-print(a)
+
