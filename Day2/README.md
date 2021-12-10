@@ -6,4 +6,4 @@
 
 **一周学完Python只针对我个人，公开只为装逼**
 
-## [Day1-Python基础](./Day1) 
+## [Day2-Python高级一点点](./Day1) 
