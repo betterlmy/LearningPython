@@ -2,4 +2,5 @@
 .DS_Store
 .idea/csv-plugin.xml
 .idea/other.xml
-
+.__pychache__
+.DS_Store
