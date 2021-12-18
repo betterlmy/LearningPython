@@ -18,4 +18,6 @@
 
 * ## [Python 常见模块](./Python常见模块)
 
-  
+* ## [Python Numpy库](./Python数据处理/numpy库.ipynb)
+
+* ## [Python Pandas库](./Python数据处理/pandas库.ipynb)
