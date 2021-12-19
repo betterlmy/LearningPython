@@ -18,8 +18,4 @@
 
 * ## [Python 常见模块](./Python常见模块)
 
-* ## [Python Numpy库](./Python数据处理/Numpy库.ipynb)
-
-* ## [Python Pandas库-Series类](./Python数据处理/Pandas库-Series类.ipynb)
-
-* ## [Python Pandas库-DataFrame类](./Python数据处理/Pandas库-DataFrame类.ipynb)
+* ## [Python 数据处理](./Python数据处理)
