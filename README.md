@@ -8,6 +8,14 @@
 
 使用**Jupyter**实现markdown edit与code工作.
 
+Python环境包内容在[requirements.txt](requirements.txt)文件中,在命令行中使用下列命令导入环境
+
+```
+pip install -r requirements.txt
+```
+
+
+
 **项目暂时只适用于我个人**
 
 * ## [Python 语法基础](./Python语法基础)
