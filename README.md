@@ -4,6 +4,8 @@
 
 重新学习[Python-100-Days](https://github.com/jackfrued/Python-100-Days)，查漏补缺
 
+ ![Python数据分析](Python资料/学习地图/Python.jpg)
+
 使用**Jupyter**实现markdown edit与code工作.
 
 **项目暂时只适用于我个人**
