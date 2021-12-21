@@ -1,5 +1,5 @@
 ## Python Learning Records
-
+[![wakatime](https://wakatime.com/badge/github/betterlmy/LearningPython.svg)](https://wakatime.com/badge/github/betterlmy/LearningPython)
 
 
 重新学习[Python-100-Days](https://github.com/jackfrued/Python-100-Days)，查漏补缺
