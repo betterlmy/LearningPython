@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 * ## [Python Network&ImageProcess](./Python网络编程与图像处理基础)
 
-* ## [Python 常见模块](./Python常见模块)
-
 * ## [Python 数据处理](./Python数据处理)
+
+* ## [Python 标准库](./Python标准库)
+* * ### [Collections库](./Python标准库/Collections.ipynb)
